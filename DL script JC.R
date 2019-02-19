@@ -1,5 +1,6 @@
-## ----setup, include=FALSE------------------------------------------------
-knitr::opts_chunk$set(eval = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+
+install.packages("readxl")
+install.packages("meta")
 
 ## ------------------------------------------------------------------------
 library(readxl)
